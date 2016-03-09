@@ -1,2 +1,0 @@
-I am studying Git.
-Git is funny.
